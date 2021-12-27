@@ -7,6 +7,8 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print('我新添加了代码行')
+    print('所以左边出现了绿色框')
 
 
 # Press the green button in the gutter to run the script.
